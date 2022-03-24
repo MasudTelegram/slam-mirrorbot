@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teletorbot",
+  "private_key_id": "1f9afa9d652934df5ff06ddd898b8f794fa9d0c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC297YZ2xUtq5in\nSOMpQRWE3KWrn/79d7hJlaoMAp9XglhKTASn9IhArA3OhF7wnsaucC5JK6FUPyV8\nB9fObc2KJY+9eefufDCDLsF0zB4hizs3ye5xh+Ajxx4hWxxrTTKLH9NI57Jz5fFO\nSQYNNT/ZmWKuUc93T0j7DOK6viyuwOwiiY45fh4fNDcv/3kJs/GvATa6BGTNO8Bb\ngpnilC+B+Mr38+x1VGfoAb18Frcz2rbo2SFPBexYkikIM3o+KRL66ZXMAhwbnceZ\nj+HS+XcKF1bnD0GjhU1HwbGyt6UGMUsjC2KTJ2eW3sxsdjQTcg3Fmf5xzGAV8AKS\nF8JGMq3fAgMBAAECggEAAs8oM9T4m3/bkEtqg0avfwhoyGg2D3Sq+dL7NxUsf2dr\nEBFUovhu3R4+bO78uUWwQ4QyazAAWYYbOS8PpMXgivdoZiofxNGRxahlhy32Nhtc\n1YjEIH/Xbu3r2qT7J/Mlb2HbqgWTlxKXx48+pa2KZUpNpfqHIPqCP5MRwWFu7tTV\nBNUlLOUQZk+rFVsaN/I15ZYlD55B7+RQwaEKxRll3IfDBciHfqbiMqvz6NRto9a9\naJFIqMFHaKA0Huc+K4CE65ustYfDTwHzCTkqXUFiFmbBIj/it+7jjLmez8NamtiU\n4z25cNOK1sdIYV4ltt/mh4xj2M8zyroKzXffVu4kYQKBgQD63kmlpIGriHqBsDaQ\nyYo1C2GdIcIxvXizLwVZGKHkDjKnZHjrMn/045Zl2wgds9fzITcXDFMPpIrsadOf\nZxEbwkXZWrktVVTSCWCvhIxwyZH74RcOl5N+DbqzVOxIz0LkIM2Ty2f2LrSmA/+z\nqH0Ifw6YqTOR1zbEmE/4VuoQvwKBgQC6tdnLFSyA5wi7WyvJX39RfUEAMjb015B3\nSnIqWk7L4YvOdmrq5VEa3Bc8vVC4fnILHIknW66NoJg/s8eyFT0Sg/ISwMAq3Qwh\nl02QuexFsOimUVpC+3Akjdw7G97Dm1fkB6ADHoIEcmoVZ6V3eRUowaT1U869N5uD\npfPCVE2K4QKBgC67GZzxd/YsBiYCXSe7YzNeW2CZ2ULKuKEoMSbXn9CLlIP6A0xM\nq+lCO9HdazWdOqzfkxOICDDxxa8kR3d6C4XQOpKyg6weKR63AHuxhTe9VKRG2bSu\nJ5tjk1O0jg9CDIPSWHkfes4xBRWnyQn+aMwcXuuxGRohrOISPVNVXWShAoGAA575\nPVYIyesxISkQfVRLzNHIC+/tXuw7UgTwl9+ufYe/RV7IjguqegHgtX3abemN3qdM\nBaZiiT6fFUUwT0TYLV6/uBti3rHwxUoA6Bii+2sF6AvV20yzDRJvPfo5ZMPDfZmk\nQcs6rElnw0iCTgHcJjEzOMrKTKMicfgq9Q7bfiECgYB9eaaWWC5lPz8DFuSWvuU7\nGgOmKnyPKMqckNqonfICqdKndPz2HpLWcNGBm+kPdFMFnZuo1qxyclwf9zCjvEM9\ngR4ldR41AP9TgwHqZ8Lfy/3VDBg9TAfcBBnuTSwE8J+sfVqWXHrSTakA5J0pMcxC\ndmK08CXlVPv02kw2SJHfkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-5w6thgaderny6gx5-nrkk50qfy@teletorbot.iam.gserviceaccount.com",
+  "client_id": "114053088440646019319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-5w6thgaderny6gx5-nrkk50qfy%40teletorbot.iam.gserviceaccount.com"
+}
